@@ -4,26 +4,26 @@
   </a>
 </p>
 
-# Category Title (Category Abbreviation) 
+# An Examined Life (EL)
 
 ## Category Description
 
 Students will:
 
-- learning outcome
-- learning outcome
-- learning outcome
+- Comprehend theories and methods of the discipline under study and its modes of ethical inquiry;
+- Analyze contemporary issues with attention to their ethical dimensions and the application of theory to practice
+- Demonstrate an awareness of differing values and ethical perspectives.
 
 ## Courses That Fulfill This Requirement
 
 | Class |          Title          |                 Units                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  [EC 1000] |  Effective Communication 1: Verbal and Visual Literacies | 4.00 Units |
-
-[EC 1000] - This course may be offered as Writing Intensive (denoted with a + and offering students additional writing instruction with attention to grammar and mechanics) or Service-Learning
+|   |  |  |
 
 
-[EC 1000]:https://drive.google.com/file/d/1OegybHRHTegCp8Fwup6DHvFvxwnNgKWM/view?usp=sharing
+
+
+<!--[EC 1000]:https://drive.google.com/file/d/1OegybHRHTegCp8Fwup6DHvFvxwnNgKWM/view?usp=sharing-->
 
 
 ## Make School Course Policies
