@@ -18,7 +18,8 @@ Students will:
 
 | Class |          Title          |       Semester - Section       | Units |
 |:-----:|:----------------------:|:---------------------------:|:--------|
-|   |  |  |
+| PHIL X  | Ethics and Society  |Spring 2021  | 4.00 |
+| PHIL 3123  | Ethical Being, Being Ethical  |Spring 2021  | 4.00 |
 
 
 
