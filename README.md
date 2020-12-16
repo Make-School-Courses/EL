@@ -18,10 +18,12 @@ Students will:
 
 | Class |          Title          |       Semester - Section       | Units |
 |:-----:|:----------------------:|:---------------------------:|:--------|
-| PHIL X  | Ethics and Society  |Spring 2021  | 4.00 |
+| PHIL 2107  | Ethics and Society  |Spring 2021  | 4.00 |
 | PHIL 3123  | Ethical Being, Being Ethical  |Spring 2021  | 4.00 |
 
+PHIL 2107 - This course will explore the ethical complexities of information and communication technology in relation to humankind. By combining real-world inquiry with creative speculation, students will probe everyday ethical dilemmas they face as digital consumers, creators, and coders, as well as relevant policy. Students explore themes such as privacy, intellectual property, social justice, free speech, artificial intelligence, and social media.
 
+PHIL 3123 - An introduction to ethical theory in Western philosophy followed by an investigation of a range of contemporary ethical problems drawn from private life, public policy, law, medicine, and business.
 
 
 <!--[EC 1000]:https://drive.google.com/file/d/1OegybHRHTegCp8Fwup6DHvFvxwnNgKWM/view?usp=sharing-->
